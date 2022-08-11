@@ -1,5 +1,8 @@
 ### :nerd_face: Hi!
 #### I'm [Ramses](https://github.com/ramses-code), a Web Developer from Mexico, a passionate programmer that loves challenges and solving problems.
+
+Currently, I'm collaborating with [@etolopez](https://github.com/etolopez) and [@alejandromanco](https://github.com/alejandromanco) on building a web app that will allow pet owners to hire reliable and pet-friendly people to walk and take care of their dogs while allowing people who love dogs to earn an extra income while enjoining a walk at the park. We are working with HTML5 | CSS3 | Bootstrap | JavaScript | React | Python | Flask | SQLAlquemy | PostgreSQL | Git | GitHub | Trello | Figma
+
 -----
 #### Languages and tools:
 
