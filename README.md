@@ -18,6 +18,6 @@ Currently, I'm collaborating with [@etolopez](https://github.com/etolopez) and [
 -----
 ### Where to find me:
 <a href="https://www.linkedin.com/in/ramses-cevallos/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/91999610/182999057-ed700b5c-3650-43fc-98de-0219445a5877.gif" width="400"       height="320" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/91999610/182999057-ed700b5c-3650-43fc-98de-0219445a5877.gif" width="300"       height="300" />
 
 
