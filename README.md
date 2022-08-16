@@ -17,7 +17,9 @@ Currently, I'm collaborating with [@etolopez](https://github.com/etolopez) and [
 <code><a href="https://git-scm.com/"><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a></code>
 -----
 ### Where to find me:
-<a href="https://www.linkedin.com/in/ramses-cevallos/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/ramses-cevallos/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+cevallosramses@gmail.com
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/91999610/182999057-ed700b5c-3650-43fc-98de-0219445a5877.gif" width="300"       height="300" />
 
 
