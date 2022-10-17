@@ -1,5 +1,5 @@
 ### :nerd_face: Hi!
-#### I'm [Ramses](https://github.com/ramses-code), a Web Developer from Mexico that loves challenges and solving problems.
+#### I'm [Ramses](https://github.com/ramses-code), a Web Developer from Mexico.
 
 -----
 #### Languages and tools:
